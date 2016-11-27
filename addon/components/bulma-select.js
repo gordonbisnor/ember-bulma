@@ -1,6 +1,5 @@
 import Ember from 'ember';
 import layout from '../templates/components/bulma-select';
-import computed, { readOnly } from 'ember-computed-decorators';
 import { deprecations } from '../utils';
 
 const {
