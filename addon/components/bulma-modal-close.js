@@ -2,8 +2,7 @@ import Ember from 'ember';
 import layout from '../templates/components/bulma-modal-close';
 
 const {
-  get,
-  set
+  get
 } = Ember;
 
 export default Ember.Component.extend({
