@@ -3,8 +3,7 @@ import BulmaInput from '../components/bulma-input';
 import layout from '../templates/components/bulma-checkbox';
 
 const {
-  get,
-  set
+  get
 } = Ember;
 
 export default BulmaInput.extend({
