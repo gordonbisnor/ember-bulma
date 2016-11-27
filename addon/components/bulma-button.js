@@ -1,6 +1,5 @@
 import Ember from 'ember';
 import layout from '../templates/components/bulma-button';
-import computed, { readOnly, alias, bool } from 'ember-computed-decorators';
 import { _colorBindings } from '../constants';
 
 export default Ember.Component.extend({
