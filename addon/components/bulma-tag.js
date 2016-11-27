@@ -1,6 +1,5 @@
 import Ember from 'ember';
 import layout from '../templates/components/bulma-tag';
-import computed, { readOnly } from 'ember-computed-decorators';
 import { _colorBindings, _responsiveHelpers } from '../constants';
 
 export default Ember.Component.extend({
