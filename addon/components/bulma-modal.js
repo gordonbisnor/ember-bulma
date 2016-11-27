@@ -4,8 +4,7 @@ import layout from '../templates/components/bulma-modal';
 const {
   Component,
   run: { schedule },
-  get,
-  set
+  get
 } = Ember;
 
 const jQuery = Ember.$;
