@@ -2,7 +2,6 @@ import Ember from 'ember';
 
 const {
   isArray,
-  A
 } = Ember;
 
 /**
@@ -55,4 +54,4 @@ export const deprecations = (items) => {
       console.warn(msg[item.name]);
     }
   });
-}
+};
