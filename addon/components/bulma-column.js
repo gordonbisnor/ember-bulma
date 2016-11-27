@@ -1,6 +1,5 @@
 import Ember from 'ember';
 import layout from '../templates/components/bulma-column';
-import computed from 'ember-computed-decorators';
 import { _responsiveHelpers } from '../constants';
 
 const {
